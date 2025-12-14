@@ -1,6 +1,8 @@
 "use client";
-import Image from "next/image";
+
+// {import react compoent here}
 import Plasma from "../components/Plasma";
+
 export default function Home() {
   return (
     <div className="">
